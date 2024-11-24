@@ -1,4 +1,4 @@
-<div align="center"> <img height="300" width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="cover"> </div>
+
 
 <div>
   <br/><br/>
@@ -11,9 +11,9 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hawamubarakk?label=Stars&style=flat">
 </p>
 
-- 🔭 I'm currently working on **HTML, CSS,JAVA,C Projects**
+- 🔭 I'm currently working on **HTML, CSS, JAVA, creative projects, and exploring innovative technologies.**
 - 🌱 I'm exploring **Web Development**
-- 💬 Ask me about **C,HTML,CSS**
+- 💬 Ask me about **C language,HTML,CSS**
 - 📫 Reach me at **hawamubarak007@gmail.com**
 
 <br/>
