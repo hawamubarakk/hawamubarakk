@@ -33,7 +33,7 @@
 <div>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,c,devC++,Codeblocks,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,c,vscode)](https://skillicons.dev)
 
 <br/>
 
