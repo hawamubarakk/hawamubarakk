@@ -2,7 +2,7 @@
 
 <div>
   <br/><br/>
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://img.freepik.com/free-vector/illustration-social-media-concept_53876-20591.jpg?t=st=1732460846~exp=1732464446~hmac=47f43fb2acaf0b019cde46e85ab8b7b6a6e12716010251d0204c17e583628a6c&w=996)https://img.freepik.com/free-vector/illustration-social-media-concept_53876-20591.jpg?t=st=1732460846~exp=1732464446~hmac=47f43fb2acaf0b019cde46e85ab8b7b6a6e12716010251d0204c17e583628a6c&w=996" />
 </div>
 
  
