@@ -1,10 +1,8 @@
-<div align="center"> 
-  <img height="300" width="100%" src="https://media.giphy.com/media/2yV1g46wuj0Lx6rAhf/giphy.gif" alt="tech cover photo"> 
-</div>
+<div align="center"> <img height="300" width="100%" src="https://github.githubassets.com/assets/hero-desktop-a38b0fd77b6c.webp" alt="cover"> </div>
 
 <div>
   <br/><br/>
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o85xyo7s4ahsfZB6k/giphy.gif" />
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
 
 <p align="left"> 
