@@ -14,7 +14,7 @@
 
 - 🔭 I'm currently working on **HTML, CSS, JAVA, creative projects, and exploring innovative technologies.**
 - 🌱 I'm exploring **Web Development**
-- 💬 Ask me about **C language, HTML, CSS**
+- 💬 Ask me about **C language, HTML, CSS, Java**
 - 📫 Reach me at **hawamubarak007@gmail.com**
 
 <br/>
