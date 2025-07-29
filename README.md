@@ -58,7 +58,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hawa-mubarak-06b61733a/" target="_blank">
+  <a href="https://www.linkedin.com/in/hawa-mubarak-b0a2b7376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
