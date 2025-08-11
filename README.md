@@ -40,7 +40,7 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hawamubarakk&show_icons=true&theme=tokyonight" alt="Hawa's GitHub stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=hawamubarakk&theme=tokyonight" alt="Hawa's GitHub streak" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=hawamubarakk&theme=tokyonight" alt="Hawa's GitHub streak" />
 </div>
 
 <div align="center">
