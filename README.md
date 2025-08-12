@@ -31,6 +31,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,html,css,c,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=idea,js" alt="IntelliJ and JavaScript" />
   </a>
 </div>
 
