@@ -40,9 +40,6 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hawamubarakk&show_icons=true&theme=tokyonight" alt="Hawa's GitHub stats" /> 
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=hawamubarakk&theme=tokyonight" alt="Hawa's Github streak"/>
-</div>
-
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawamubarakk&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
